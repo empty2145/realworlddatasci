@@ -1,3 +1,5 @@
 myenv/
 .myenv
 .myenv/*.csv
+SalesAnalysis/Sales_Data/*.csv
+SalesAnalysis/Sales_Data/*.csv
